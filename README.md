@@ -1,1 +1,1 @@
-Check out Methods M1 for user guides.
+Check out Methods S1 for user guides.
