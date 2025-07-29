@@ -16,4 +16,4 @@ consistent between intensity (control) and ratio
 
 If you'd like to use SPoRTS but you're running into
 difficulties, please feel free to contact me at
-mborrel2@uwo.ca with subject line "SPoRTS troubleshooting".
+mjborrelli94@gmail.com with subject line "SPoRTS troubleshooting".
